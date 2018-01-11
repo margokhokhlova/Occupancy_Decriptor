@@ -11,3 +11,6 @@ the MSR3D dataset.
 
 % the R and H parameters of the code are given for the MSR3D dataset also. All the other parameters can be adjusted and are independent on the depth image provided.
 
+Code was tested on Windows 7, VS 10 - 64.
+
+
