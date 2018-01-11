@@ -9,5 +9,5 @@ A simple code which calculates the OP descriptor from a depth image.
 The image is first converted to a Point Cloud, uisng the calibration parameters for
 the MSR3D dataset.
 
-% the R and H parameters of the code are given for the MSR3D dataset also. All the other parameters can be adjusted.
+% the R and H parameters of the code are given for the MSR3D dataset also. All the other parameters can be adjusted and are independent on the depth image provided.
 
